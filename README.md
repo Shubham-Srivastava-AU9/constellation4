@@ -1,6 +1,9 @@
 # constellation4
 install npm i in client and  in constellation4  folder.
 
+npm start - to Start the Client 
+npm run server - to start the Backend
+
 
 First I have completed Backend with making 3 api's postDetails , getDetails , getDetail
 
